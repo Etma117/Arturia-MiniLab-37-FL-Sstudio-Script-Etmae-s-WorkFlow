@@ -1,0 +1,4 @@
+_backup_original/
+__pycache__/
+*.pyc
+.DS_Store
